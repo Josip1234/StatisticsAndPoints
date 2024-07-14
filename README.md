@@ -1,0 +1,2 @@
+# StatisticsAndPoints
+ Application which will count points for statistics. Points are being awarded random. For example we are playing some fifa match and we get some points with our team. We write  3 points. Points will be counter for country, club ,person. Summarization will be country points. If country does not exists, then it will be unknown country category. We will have lists, and positioning on that lists. Like a leaderboard.
